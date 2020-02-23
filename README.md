@@ -1,3 +1,4 @@
+![Result image](https://github.com/adifens/webCalculator/blob/master/cal.png?raw=true)
 # Web Calculator
 
 webCalculator is calculator for web which built with html,css, and js.
